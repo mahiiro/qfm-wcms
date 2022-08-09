@@ -1,0 +1,13 @@
+/*--------------------------------------------------------------
+/* Variables
+========================================================================== */
+:root{
+  --main-color: #EDECDB;
+  --secondary-color: #31553C;
+  --text-color: #5D665F;
+  --title-color: #091F10;
+  --main-font: Serif;
+  --title-font: Serif;
+  --white: #FFFFFF;
+  --black: #2E2E2E;
+}

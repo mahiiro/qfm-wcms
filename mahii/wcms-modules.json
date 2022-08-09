@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "theme-name": {
+            "name": "Qui fait mouche !",
+            "repo": "https://github.com/yourUsername/theme-name/tree/master",
+            "zip": "https://github.com/yourUsename/theme-name/archive/master.zip",
+            "summary": "My sample theme",
+            "version": "2.0.0",
+            "image": "https://raw.githubusercontent.com/yourUsername/theme-name/master/preview.jpg"
+        }
+    }
+}
