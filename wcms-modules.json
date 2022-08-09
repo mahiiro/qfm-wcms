@@ -1,7 +1,7 @@
 {
     "version": 1,
     "themes": {
-        "theme-name": {
+        "qfm-wcms": {
             "name": "Qui fait mouche !",
             "repo": "https://github.com/mahiiro/qfm-wcms/tree/main/",
             "zip": "https://github.com/mahiiro/qfm-wcms/archive/main.zip",
