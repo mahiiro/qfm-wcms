@@ -4,7 +4,7 @@
         "theme-name": {
             "name": "Qui fait mouche !",
             "repo": "https://github.com/mahiiro/qfm-wcms/tree/main/",
-            "zip": "https://github.com/mahiiro/qfm-wcms/archive/refs/heads/main.zip",
+            "zip": "https://github.com/mahiiro/qfm-wcms/archive/main.zip",
             "summary": "Mon thème pour qui fait mouche",
             "version": "2.0.0",
             "image": "https://raw.githubusercontent.com/mahiiro/qfm-wcms/main/images/preview.jpg"
